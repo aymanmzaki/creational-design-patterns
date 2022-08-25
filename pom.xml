@@ -19,6 +19,7 @@
 
     <modules>
         <module>factory-method</module>
+        <module>abstract-factory</module>
     </modules>
     <dependencies>
         <dependency>
